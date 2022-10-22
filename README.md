@@ -1,8 +1,8 @@
-## My Cheat Codes
+# My Cheat Codes
 
 Cheat cods and functions used different platforms.
 
-#### Available for:
+### Available for:
 ---
 - Javascript
 - Linux
