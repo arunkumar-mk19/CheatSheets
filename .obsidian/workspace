@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "daa14e0707310b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "704549db705b08e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Helpers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd131a0c4e6c5d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd9b648ec6fe862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b3a2715fab2c80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fd2b45e9d58c06e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee0a18139aed60d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49caed32cccee073",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c9b27851c2755e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0cf768e02d6f43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/Helpers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d07be41e96360dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/Helpers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a1f20ee8ef73c61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24797385d2dc3d89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/Helpers.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44b3a2715fab2c80",
+  "lastOpenFiles": [
+    "Linux/Commands.md",
+    "README.md",
+    "Project/MyExpense.md",
+    "Javascript/Helpers.md"
+  ]
+}
