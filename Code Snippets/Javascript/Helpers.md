@@ -4,5 +4,7 @@
 ---
 A short code that returns a random hexa decimal color.
 
-`Math.floor(Math.random() * 0xffffff).toString(16)`
+```js
+Math.floor(Math.random() * 0xffffff).toString(16)
+```
 
