@@ -1,6 +1,6 @@
-# Simple helper functions
+## Simple helper functions
 
-## 1. Create slug
+### 1. Create slug
 
 ```php
 

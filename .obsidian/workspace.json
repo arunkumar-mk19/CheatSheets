@@ -8,31 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "704549db705b08e1",
+            "id": "02adaa853fc12676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/Javascript/Helpers.md",
+                "file": "Code Snippets/Javascript/Vanilla/Helpers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ffdf4b4bb26b4071",
+            "id": "4433264babfea8fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md",
+                "file": "Libraries/React/UI Libraries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c560e2bfb695ffbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Examples/Javascript/Node JS Articles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b0b6107ce6decb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Snippets/Javascript/Vanilla/Helpers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8250921843fe518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Snippets/Javascript/Vanilla/Helpers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md",
+                "file": "Code Snippets/Javascript/Vanilla/Helpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md",
+                "file": "Code Snippets/Javascript/Vanilla/Helpers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md"
+                "file": "Code Snippets/Javascript/Vanilla/Helpers.md"
               }
             }
           }
@@ -167,16 +203,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffdf4b4bb26b4071",
+  "active": "62b0b6107ce6decb",
   "lastOpenFiles": [
-    "Code Snippets/Javascript/Helpers.md",
-    "Code Snippets/PHP/Helpers.md",
-    "Code Snippets/PHP",
-    "Code Snippets/Javascript/React/Libraries.md",
+    "Code Examples/Javascript/Node JS Articles.md",
+    "Code Examples/Javascript/Javascript Articles.md",
+    "Code Examples/Javascript/Typescript Articles.md",
+    "React/Medium Articles.md",
     "README.md",
+    "Code Snippets/Javascript/Vanilla/Helpers.md",
+    "Code Snippets/Javascript/React/Libraries.md",
+    "React",
+    "Libraries/React/UI Libraries.md",
+    "Libraries/React",
+    "Code Snippets/PHP/Helpers.md",
+    "Code Snippets/Javascript/Vanilla",
+    "Code Examples/Javascript/Vanilla",
+    "Code Examples/Javascript",
+    "Code Snippets/Linux/Commands.md",
+    "Code Examples/Javascript/Node",
+    "Libraries",
+    "Code Snippets/PHP",
     "Code Examples",
     "Code Snippets",
-    "Code Snippets/Linux/Commands.md",
     "Project/MyExpense.md"
   ]
 }

@@ -4,5 +4,6 @@ Cheat cods and functions used different platforms.
 
 ### Available for:
 ---
-- Javascript
+- JavaScript
 - Linux
+- PHP
