@@ -6,4 +6,3 @@
 - [ ] [🚀 Building a contacts management system with NextJS, Supabase, and Flatfile 🥂](https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6)
 - [ ] [Zustand vs Redux: Choosing the Right State Management Library for Your React App](https://dev.to/idurar/zustand-vs-redux-choosing-the-right-state-management-library-for-your-react-app-2255)
 - [ ] [How to Implement Infinite Queries in React Query](https://dev.to/dravidjones28/how-to-implement-infinite-queries-in-react-query-22e6)
-- [ ] 

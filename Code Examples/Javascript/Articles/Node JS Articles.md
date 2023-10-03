@@ -10,4 +10,5 @@
 - [ ] [8 Advanced JavaScript Interview Questions for Senior Roles](https://levelup.gitconnected.com/8-advanced-javascript-interview-questions-for-senior-roles-c59e1b0f83e1)
 - [ ] [Building Scalable Microservice Architecture with Next.js, Node.js, Redis](https://mostafizur99.medium.com/building-scalable-microservice-architecture-with-next-js-node-js-redis-bec0e737f758)
 - [ ] [Connecting to Multiple Databases with Nodejs and Sequelize](https://javascript.plainenglish.io/connecting-to-multiple-databases-with-nodejs-and-sequelize-4cd9224e6a4d)
-- [ ] 
+- [ ] [Node.js Unit Testing with Jest](https://medium.com/@ben.dev.io/node-js-unit-testing-with-jest-b7042d7c2ad0)
+- [ ] [Authenticate user using Nodejs and Expressjs](https://medium.com/@Mohammed_Taherali/authenticate-user-using-nodejs-and-expressjs-745526449331)

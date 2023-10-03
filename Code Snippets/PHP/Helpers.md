@@ -32,3 +32,49 @@ function createSlug($title, $separator = '-', $dictionary = ['@' => 'at'])
     return trim($title, $separator);
 }
 ```
+
+### 2. Hexadecimal unique id
+
+A function to create hexadecimal unique id.
+
+```php
+function getHexUniqueId(int $id, string $module){
+
+    /**
+     * Min 8-digit HexaDecimal value: 10000000 , Decimal value: 268435456
+     * Max 8-digit HexaDecimal value: ffffffff , Decimal value: 4294967295
+     *
+     * Min 10-digit HexaDecimal value: 1000000000 , Decimal value: 68719476736
+     * Min 10-digit HexaDecimal value: ffffffffff , Decimal value: 1099511627775
+     *
+     * Min 10-digit HexaDecimal value: 100000000000 , Decimal value: 17592186044416
+     * Min 12-digit HexaDecimal value: ffffffffffff , Decimal value: 281474976710655
+     */
+
+    $time = dechex(time());     // 8 digit value
+
+    $value_ranges = [
+        'district'       => 70000000000000,
+        'course'         => 70000100000000,
+        'school'         => 70000300000000,
+        'school_admin'   => 70000400000000,
+        'district_admin' => 70000600000000,
+        'event'          => 70000800000000,
+        'section'        => 70001000000000,
+        'contact'        => 70010000000000,
+        'student'        => 70020000000000,
+        'teacher'        => 70030000000000,
+        'term'           => 70040000000000,
+    ];
+
+    if(!array_key_exists($module, $value_ranges)){
+        return false;
+    }
+
+    $auto_id = (int) $value_ranges[$module] + (int) $id;
+
+    $hex_dec_id = dechex((int) $auto_id);
+
+    return $hex_dec_id . $time;
+}
+```

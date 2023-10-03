@@ -1,9 +1,14 @@
 # My Cheat Codes
 
-Cheat cods and functions used different platforms.
+Cheat codes and functions used different platforms.
 
 ### Available for:
 ---
 - JavaScript
+- React JS
+- Next JS
 - Linux
 - PHP
+
+
+  
