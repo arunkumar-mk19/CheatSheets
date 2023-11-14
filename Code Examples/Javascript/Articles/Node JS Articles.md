@@ -12,3 +12,4 @@
 - [ ] [Connecting to Multiple Databases with Nodejs and Sequelize](https://javascript.plainenglish.io/connecting-to-multiple-databases-with-nodejs-and-sequelize-4cd9224e6a4d)
 - [ ] [Node.js Unit Testing with Jest](https://medium.com/@ben.dev.io/node-js-unit-testing-with-jest-b7042d7c2ad0)
 - [ ] [Authenticate user using Nodejs and Expressjs](https://medium.com/@Mohammed_Taherali/authenticate-user-using-nodejs-and-expressjs-745526449331)
+- [ ] [TypeScript Express Mongoose Starter: A Comprehensive Starter Boilerplate Guide](https://medium.com/@ahmadjoya/typescript-express-mongoose-starter-a-comprehensive-starter-boilerplate-guide-6471e6f13e3c)
