@@ -20,6 +20,16 @@ df -H
 ### 3. Zip a folder
 ---
 
+Create a zip folder:
+```bash
+zip -r <output_file_name.zip> <folder_1> <folder_2> ... <folder_n>
+```
+
+Zip everything in current directory
+```bash
+zip -r <output_file_name.zip> .
+```
+
 
 ### 4. Copy modified files path in Git Repository
 ---

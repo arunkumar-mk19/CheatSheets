@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Examples/PHP/PHP Articles.md",
+                "file": "Code Snippets/PHP/Helpers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Examples/PHP/PHP Articles.md",
+                "file": "Code Snippets/PHP/Helpers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Examples/PHP/PHP Articles.md",
+                "file": "Code Snippets/PHP/Helpers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Examples/PHP/PHP Articles.md"
+                "file": "Code Snippets/PHP/Helpers.md"
               }
             }
           },
@@ -166,7 +166,9 @@
   },
   "active": "b51f936f31e6415f",
   "lastOpenFiles": [
+    "Code Snippets/Linux/Commands.md",
     "Code Examples/PHP/Laravel Articles.md",
+    "Code Examples/PHP/PHP Articles.md",
     "Code Examples/Javascript/Articles/Node JS Articles.md",
     "().md",
     "Code Snippets/Design/Plain CSS.md",
@@ -174,9 +176,7 @@
     "Code Snippets/Database/MySql.md",
     "Code Snippets/Design",
     "Code Snippets/Database",
-    "Code Snippets/Linux/Commands.md",
     "Code Snippets/Javascript/Javascript Helpers.md",
-    "Code Examples/PHP/PHP Articles.md",
     "Libraries/React/UI Libraries.md",
     "README.md",
     "Code Examples/Javascript/Articles/Javascript Articles.md",

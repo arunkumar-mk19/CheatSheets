@@ -78,3 +78,22 @@ function getHexUniqueId(int $id, string $module){
     return $hex_dec_id . $time;
 }
 ```
+
+### 3.Week range selector
+
+Get the starting day and last day of the week for a given date.
+
+```php
+function x_week_range($date) {
+    $ts = strtotime($date);
+    $start = (date('w', $ts) == 0) ? $ts : strtotime('last monday', $ts);
+    return array(date('Y-m-d', $start),
+                 date('Y-m-d', strtotime('next sunday', $start)));
+}
+```
+
+And call it like this:
+
+```php
+list($start_date, $end_date) = x_week_range('2023-05-10');
+```
