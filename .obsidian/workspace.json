@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md",
+                "file": "Code Snippets/Linux/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814a2f15f992b8f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Snippets/PHP/Helpers.md"
+                "file": "README.md"
               }
             }
           },
@@ -143,7 +156,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -164,23 +179,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b51f936f31e6415f",
+  "active": "814a2f15f992b8f4",
   "lastOpenFiles": [
-    "Code Snippets/Linux/Commands.md",
-    "Code Examples/PHP/Laravel Articles.md",
+    "Code Examples/Python/AI RAG Articles.md",
+    "README.md",
     "Code Examples/PHP/PHP Articles.md",
+    "Code Snippets/Linux/Commands.md",
+    "Code Examples/Python",
+    "Code Examples/PHP/Laravel Articles.md",
     "Code Examples/Javascript/Articles/Node JS Articles.md",
+    "Code Examples/Javascript/Articles/Next JS Articles.md",
+    "Code Examples/Javascript/Articles/Javascript Articles.md",
+    "Code Snippets/PHP/Helpers.md",
     "().md",
     "Code Snippets/Design/Plain CSS.md",
-    "Code Snippets/PHP/Helpers.md",
     "Code Snippets/Database/MySql.md",
     "Code Snippets/Design",
     "Code Snippets/Database",
     "Code Snippets/Javascript/Javascript Helpers.md",
     "Libraries/React/UI Libraries.md",
-    "README.md",
-    "Code Examples/Javascript/Articles/Javascript Articles.md",
-    "Code Examples/Javascript/Articles/Next JS Articles.md",
     "Code Examples/Javascript/Articles/React JS Articles.md",
     "Code Examples/Javascript/Articles/Typescript Articles.md",
     "Code Examples/PHP",
@@ -196,7 +213,6 @@
     "Code Examples/Javascript/Vanilla",
     "Code Examples/Javascript",
     "Code Examples/Javascript/Node",
-    "Libraries",
     "Project/MyExpense.md"
   ]
 }

@@ -97,3 +97,24 @@ And call it like this:
 ```php
 list($start_date, $end_date) = x_week_range('2023-05-10');
 ```
+
+### 4.Read csv file
+
+Get the data from a csv file as an array.
+
+```php
+function read_from_csv($filepath){
+	$file = fopen($filepath, "r");
+	$arr = [];
+	
+	while (($data = fgetcsv($file, 1000, ",")) !== FALSE)
+	{
+	  $arr[] = $data;
+	}
+	
+	fclose($file);
+	
+	return $arr;
+}
+```
+

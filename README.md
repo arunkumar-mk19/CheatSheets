@@ -1,6 +1,6 @@
-# My Cheat Codes
+# My Cheat Codes and Article references
 
-Cheat codes and functions used different platforms.
+Cheat codes and functions used in different languages and blog article references for coding.
 
 ### Available for:
 ---
@@ -9,6 +9,7 @@ Cheat codes and functions used different platforms.
 - Next JS
 - Linux
 - PHP
+- Python
 
 
   
