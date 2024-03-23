@@ -12,11 +12,15 @@ sudo chown -R ec2-user:apache html
 
 ### 2. Check disk space
 ---
-
+To check all disk space:
 ```shell
 df -H
 ```
 
+To check the folder size in human readable format:
+```shell
+du -sh directory_name
+```
 ### 3. Zip a folder
 ---
 

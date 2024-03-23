@@ -13,3 +13,6 @@
 - [ ] [Node.js Unit Testing with Jest](https://medium.com/@ben.dev.io/node-js-unit-testing-with-jest-b7042d7c2ad0)
 - [ ] [Authenticate user using Nodejs and Expressjs](https://medium.com/@Mohammed_Taherali/authenticate-user-using-nodejs-and-expressjs-745526449331)
 - [ ] [TypeScript Express Mongoose Starter: A Comprehensive Starter Boilerplate Guide](https://medium.com/@ahmadjoya/typescript-express-mongoose-starter-a-comprehensive-starter-boilerplate-guide-6471e6f13e3c)
+- [ ] [Managing Multiple Node.js Environment Deployments Tutorial (No DevOps Required)](https://blog.stackademic.com/managing-multiple-node-js-environment-deployments-tutorial-no-devops-required-6f9433bdaa63)
+- [ ] [Node.js Clean Architecture (Simplified Example)](https://medium.com/@tareksaimouah/node-js-clean-architecture-simplified-example-b9f9b4d65ba5)
+- [ ] [Securing Node.js in Production: Expert Practices for Every Developer](https://javascript.plainenglish.io/securing-node-js-in-production-expert-practices-for-every-developer-9343c1ee0f79)
