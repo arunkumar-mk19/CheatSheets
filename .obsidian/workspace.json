@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "25d0ddd011dce674",
+        "id": "8fc847bb2ddd3dba",
         "type": "tabs",
         "children": [
           {
-            "id": "7a4c281d4b428b58",
+            "id": "e40b8ddf02d14114",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Code Examples/Python/AI RAG Articles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Code Examples/Python/AI RAG Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Code Examples/Python/AI RAG Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Code Examples/Python/AI RAG Articles.md"
+              }
             }
           },
           {
@@ -158,41 +166,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a4c281d4b428b58",
+  "active": "e40b8ddf02d14114",
   "lastOpenFiles": [
-    "Articles/Ui/Shadcn ui components.md",
-    "Libraries/React/UI Libraries.md",
-    "Articles/Ui",
-    "Articles",
-    "Code Examples/Javascript/Articles/Node JS Articles.md",
+    "Code Examples/Javascript/Articles/Typescript Articles.md",
     "Code Examples/Python/AI RAG Articles.md",
+    "Articles/Git.md",
+    "Code Snippets/Git Commands.md",
+    "Code Examples/Javascript/Articles/React JS Articles.md",
+    "Code Examples/Javascript/Articles/Javascript Articles.md",
+    "Code Snippets/AWS Commands.md",
     "Code Snippets/Linux/Commands.md",
-    "Code Snippets/PHP/Helpers.md",
-    "Code Snippets/Javascript/Javascript Helpers.md",
+    "Libraries/React/UI Libraries.md",
+    "Articles/Ui/Shadcn ui components.md",
     "Code Snippets/Design/Plain CSS.md",
+    "Code Snippets/PHP/Helpers.md",
+    "Code Examples/PHP/PHP Articles.md",
+    "README.md",
+    "Untitled.canvas",
+    "Code Examples/Javascript/Articles/Next JS Articles.md",
+    "2024-04-12.md",
+    "Code Examples/Javascript/Articles/Node JS Articles.md",
+    "Code Snippets/Javascript/Javascript Helpers.md",
     "Code Snippets/Database/MySql.md",
     "Code Examples/PHP/Laravel Articles.md",
-    "Code Examples/PHP/PHP Articles.md",
-    "Code Examples/Javascript/Articles/Next JS Articles.md",
-    "Code Examples/Javascript/Articles/Javascript Articles.md",
-    "README.md",
+    "Code Snippets/Git",
+    "Articles/Ui",
+    "Articles",
     "Code Examples/Python",
     "().md",
     "Code Snippets/Design",
     "Code Snippets/Database",
-    "Code Examples/Javascript/Articles/React JS Articles.md",
-    "Code Examples/Javascript/Articles/Typescript Articles.md",
     "Code Examples/PHP",
     "Code Examples/Javascript/Node JS Articles.md",
     "Code Examples/Javascript/Javascript Articles.md",
     "Code Examples/Javascript/Typescript Articles.md",
     "React/Medium Articles.md",
     "Code Snippets/Javascript/Vanilla/Helpers.md",
-    "Code Snippets/Javascript/React/Libraries.md",
     "React",
     "Libraries/React",
-    "Code Snippets/Javascript/Vanilla",
-    "Code Examples/Javascript/Vanilla",
-    "Project/MyExpense.md"
+    "Code Snippets/Javascript/Vanilla"
   ]
 }

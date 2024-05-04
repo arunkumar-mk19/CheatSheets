@@ -13,6 +13,8 @@ Math.floor(Math.random() * 0xffffff).toString(16)
 A function to display all kinds of errors in the ajax request.
 
 ```js
+let maxFileUploadSize = 25;
+
 function displayErrors (err) {
 
     if (err && (err.responseJSON || err.statusText)) {

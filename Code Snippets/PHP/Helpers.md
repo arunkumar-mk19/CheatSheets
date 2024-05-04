@@ -118,3 +118,16 @@ function read_from_csv($filepath){
 }
 ```
 
+### 5.Finding the number of days between two dates
+
+Finding the no of days between two given days.
+
+```php
+$start_date = $request->start_date ?? date('Y-m-d');
+$end_date = $request->end_date ?? date('Y-m-d');
+
+$start_date_unix = strtotime($start_date);
+$end_date_unix = strtotime($end_date);
+
+$date_diff = round(($end_date_unix - $start_date_unix) / 86400);
+```

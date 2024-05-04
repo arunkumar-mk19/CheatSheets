@@ -11,3 +11,4 @@
 - [ ] [Mastering Advanced Laravel Techniques: Taking Your Development Skills to the Next Level](https://medium.com/@prevailexcellent/mastering-advanced-laravel-techniques-taking-your-development-skills-to-the-next-level-e0ffdca64c98)
 - [ ] [Building a RESTful API with Laravel: Best practices and tools](https://medium.com/@mukesh.ram/building-a-restful-api-with-laravel-best-practices-and-tools-907bdf4b5621)
 - [ ] [3-way pivot table in Laravel](https://medium.com/@kaism/3-way-pivot-table-in-laravel-d42d60462b06)
+- [ ] [Standardize Laravel API success and error response](https://medium.com/@amarjotsingh90/formatting-laravel-api-success-and-error-response-eb6a55f3d574)
