@@ -131,3 +131,39 @@ $end_date_unix = strtotime($end_date);
 
 $date_diff = round(($end_date_unix - $start_date_unix) / 86400);
 ```
+
+### 6.Creating a CSV file from a PHP array
+
+Creating a CSV file from a PHP array
+```php
+<?php
+// Sample data array
+$data = [
+    ['Name', 'Age', 'Email'],
+    ['John Doe', 28, 'john.doe@example.com'],
+    ['Jane Smith', 34, 'jane.smith@example.com'],
+    ['Sam Brown', 22, 'sam.brown@example.com']
+];
+
+// Name of the CSV file to be created
+$filename = 'output.csv';
+
+// Open file in write mode ('w')
+$file = fopen($filename, 'w');
+
+// Check if the file is opened successfully
+if ($file !== false) {
+    // Loop through the data array
+    foreach ($data as $row) {
+        // Write each row to the CSV file
+        fputcsv($file, $row);
+    }
+    // Close the file
+    fclose($file);
+    echo "CSV file created successfully: $filename";
+} else {
+    echo "Error opening the file for writing.";
+}
+?>
+
+```

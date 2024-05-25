@@ -29,3 +29,5 @@ To add a next js app to pm2 service list:
 pm2 start npm --name app-name -- run start -- -p 3000
 ```
 
+### 4.Php.ini file location
+The php.ini file location in AMI linux server `/etc/php.ini`

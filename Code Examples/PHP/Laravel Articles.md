@@ -12,3 +12,8 @@
 - [ ] [Building a RESTful API with Laravel: Best practices and tools](https://medium.com/@mukesh.ram/building-a-restful-api-with-laravel-best-practices-and-tools-907bdf4b5621)
 - [ ] [3-way pivot table in Laravel](https://medium.com/@kaism/3-way-pivot-table-in-laravel-d42d60462b06)
 - [ ] [Standardize Laravel API success and error response](https://medium.com/@amarjotsingh90/formatting-laravel-api-success-and-error-response-eb6a55f3d574)
+- [ ] [Mastering SOLID Principles in Laravel](https://medium.com/@hafizzeeshan619/mastering-solid-principles-in-laravel-42767a6a57ae)
+- [ ] [UUID in Laravel: A Simple Guide](https://medium.com/@laravelprotips/uuid-in-laravel-a-simple-guide-55cdc4642d43)
+- [ ] [Laravel Cache Classes](https://towardsdev.com/laravel-cache-classes-e75fe9b92fb2)
+- [ ] [Actor-Based Programming with Laravel: Idempotency and Actor Design Resurrection with a Shopping Basket Example](https://medium.com/@.Chromax/actor-based-programming-with-laravel-idempotency-and-actor-design-resurrection-with-a-shopping-352ae950a0ba)
+- [ ] 
